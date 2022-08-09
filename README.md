@@ -11,7 +11,7 @@ https://api.sap.com/api/productcategoryhierarchy/overview
 ## sqlの設定ファイル
 sap-product-category-hierarchy-sql には、sqlの設定ファイルとして以下のsqlファイルが含まれています。  
 
-* sap-product-category-hierarchy-collection-data.sql（SAP 製品カテゴリー階層 - 製品カテゴリー階層）  
+* sap-product-category-hierarchy-sql-product-category-hierarchy-collection-data.sql（SAP 製品カテゴリー階層 - 製品カテゴリー階層データ）  
 
 ## MySQLのセットアップ / Kubernetesの設定 / SQLテーブルの作成方法
 MySQLのセットアップ / Kubernetesの設定 / 具体的なSQLテーブルの作成方法、については、[mysql-kube](https://github.com/latonaio/mysql-kube)を参照ください。
